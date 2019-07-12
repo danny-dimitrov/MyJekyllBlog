@@ -2,7 +2,7 @@ title: Jekyll проект на блог сайт!
 author: danny-dimitrov
 email: daniel@nomail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Това е проект-упражнение, експериментален сайт/блог, <br /> където ще тествам приложението на Jekyll за изработка на статични уеб сайтове в GitHub
+  Това е проект-упражнение, експериментален сайт/блог, <br/> където ще тествам приложението на Jekyll за изработка на статични уеб сайтове в GitHub
 # social links
 twitter_username: DanielYDimitrov
 github_username:  danny-dimitrov
