@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jekyll проект на блог-сайт!
-author: danny-dimitrov
-email: daniel@nomail.com
+author: Даниел Димитров
+email:  
 description: > # this means to ignore newlines until "baseurl:"
   Това е проект-упражнение, експериментален сайт/блог, <br/> където ще тествам приложението на Jekyll за изработка на статични уеб сайтове в GitHub
 baseurl: "/MyJekyllBlog" # the subpath of your site, e.g. /blog
 url: "http://danny-dimitrov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # social links
-twitter_username: DanielYDimitrov
-github_username:  danny-dimitrov
+twitter_username:  
+github_username:   
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
